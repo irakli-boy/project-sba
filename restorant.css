@@ -5,3 +5,14 @@
 li{
     color: red !important;
 }
+
+
+
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap:31px;
+
+}
