@@ -1,0 +1,7 @@
+.list-group{
+    display: flex !important;
+    color: red !important;
+}
+li{
+    color: red !important;
+}
